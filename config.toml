@@ -1,0 +1,8 @@
+languageCode = "ja"
+contentdir = "content"
+publishdir = "public"
+canonifyurls = true
+builddrafts = false
+baseURL = "http://example.org/"
+title = "Shuheiktgw's Blog"
+theme = "tale"
